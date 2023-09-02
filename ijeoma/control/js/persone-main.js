@@ -1,14 +1,3 @@
-/*global $, WOW*/
-/*
-===========================================================================
- EXCLUSIVE ON themeforest.net
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- Project Name		: Persone - Responsive CV/Resume Template
- Author             : Yahya Essam
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- Copyright (c) 2016 - 2020 Yahya Essam - https://themeforest.net/user/visionscode
-===========================================================================
-*/
 
 const $window = jQuery(window), /* window cash */
 	$loading = jQuery('.loading'), /* loading cash */
